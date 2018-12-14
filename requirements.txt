@@ -7,8 +7,8 @@ jira==1.0.11
 MarkupSafe==1.0
 oauthlib==2.0.6
 pbr==3.1.1
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
 six==1.11.0
-urllib3==1.22
+urllib3==1.23
